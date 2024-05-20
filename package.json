@@ -1,0 +1,21 @@
+{
+  "name": "node_integrador",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Martinez Gisela",
+  "license": "ISC",
+  "description": "Integrador de Node",
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-google-translate-skidz": "^1.1.2",
+    "pug": "^3.0.2"
+  }
+}
